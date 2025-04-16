@@ -1,0 +1,50 @@
+body {
+    background-color: #2E3A59;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #4ECCA3;
+    font-size: 6rem;
+    margin-top: 30px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+  }
+  
+  .dice {
+    text-align: center;
+  }
+  
+  .dice p {
+    font-size: 2rem;
+    color: #4ECCA3;
+  }
+  
+  .dice img {
+    width: 150px;
+  }
+  
+  button {
+    margin-top: 40px;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    color: white;
+    background-color: #4ECCA3;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3bb38a;
+  }
+  
